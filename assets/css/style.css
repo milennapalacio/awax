@@ -726,6 +726,7 @@ header {
 
 .section-share {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   padding: 20px;
@@ -751,6 +752,10 @@ header {
   align-items: center;
   cursor: pointer;
   font-weight: 600;
+}
+
+.section-share--item:last-child {
+  margin-right: 0px;
 }
 
 .section-share--icon {
