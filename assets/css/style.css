@@ -44,11 +44,6 @@ header {
   height: 60px;
 }
 
-.logoimg {
-  width: 80px;
-  height: 80px;
-}
-
 .menu {
   flex: 1;
   display: flex;
