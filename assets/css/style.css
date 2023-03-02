@@ -1177,6 +1177,10 @@ header {
     border-left: 0;
   }
 
+  .section-service {
+    border-right: 0;
+  }
+
   .section-projects--filters {
     margin: 0px 30px;
   }
